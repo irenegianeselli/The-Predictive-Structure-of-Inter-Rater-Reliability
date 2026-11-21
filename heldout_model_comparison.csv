@@ -1,0 +1,5 @@
+"model","RMSE","delta_RMSE_vs_kappa"
+"kappa",0.387733127060818,0
+"kappa_plus_linear_SCI",0.378725906112434,0.00900722094838396
+"kappa_plus_sqrt_1_minus_SCI",0.370578439254688,0.0171546878061305
+"kappa_plus_theory_scale",0.371190746968454,0.0165423800923643

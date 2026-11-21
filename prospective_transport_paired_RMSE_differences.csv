@@ -1,0 +1,5 @@
+"direction","comparison","delta_RMSE","low","high"
+"Balanced to extreme","kappa_minus_SCI",0.226179523534963,0.220134821369276,0.232002601163409
+"Balanced to extreme","kappa_minus_kappa_plus_SCI",0.20071804039729,0.196610158934896,0.204482929611712
+"Extreme to balanced","kappa_minus_SCI",0.213439750811446,0.208425528175176,0.218480474830112
+"Extreme to balanced","kappa_minus_kappa_plus_SCI",0.211623344295007,0.207080577458049,0.216120508687968

@@ -1,0 +1,16 @@
+"direction","target","model","n","RMSE","R2"
+"within","estimated_displacement","kappa_original",25920,0.387733127060818,0.109072746810141
+"within","estimated_displacement","kappa_flexible",25920,0.3866777898595,0.113916021964877
+"within","estimated_displacement","kappa_SDT_nominal",25920,0.389059745276479,0.10296575107417
+"within","estimated_displacement","kappa_SDT_observed",25920,0.385735329728909,0.11823011053768
+"within","estimated_displacement","SCI_prospective_scale",25920,0.371382932120749,0.182626958048749
+"balanced_to_extreme","estimated_displacement","kappa_original",17280,0.597964462278525,-1.14319419077945
+"balanced_to_extreme","estimated_displacement","kappa_flexible",17280,0.531977284991254,-0.69627769917188
+"balanced_to_extreme","estimated_displacement","kappa_SDT_nominal",17280,0.405185943339264,0.0159446743000325
+"balanced_to_extreme","estimated_displacement","kappa_SDT_observed",17280,0.396148211186187,0.0593540854883207
+"balanced_to_extreme","estimated_displacement","SCI_prospective_scale",17280,0.371784938743562,0.171496476722455
+"extreme_to_balanced","estimated_displacement","kappa_original",8640,0.584195144823653,-0.978145936633411
+"extreme_to_balanced","estimated_displacement","kappa_flexible",8640,0.660422042389304,-1.52804943176978
+"extreme_to_balanced","estimated_displacement","kappa_SDT_nominal",8640,0.385734974319545,0.137576707784065
+"extreme_to_balanced","estimated_displacement","kappa_SDT_observed",8640,0.382418137118877,0.152344459816345
+"extreme_to_balanced","estimated_displacement","SCI_prospective_scale",8640,0.370755394012207,0.203258574967826
