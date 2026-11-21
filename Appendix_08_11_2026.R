@@ -1,4 +1,13 @@
 # Appendix S1. 
+#' The Predictive Structure of Inter-Rater Reliability:
+#' Implications of Agreement and Alignment for a Future Rater
+#'
+#' @author Irene Gianeselli
+#' @affiliation Faculty of Education, Free University of Bozen-Bolzano,
+#'   Viale Ratisbona 16 – Regensburger Allee 16,
+#'   39042 Bressanone-Brixen (BZ), Italy
+#' @orcid 0000-0002-8689-3035
+#' @email irene.gianeselli@unibz.it
 
 local({
   # 1. Design and output directories
